@@ -12,6 +12,11 @@ import android.widget.Toast;
 
 import org.w3c.dom.Text;
 
+/**
+ * @author brunosilva
+ * Objetivo: Exemplo de obtenção de informações sobre as conexões de rede do device. É necessário a
+ *              permissão ACCESS_NETWORK_STATE no manifesto.
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
